@@ -1,0 +1,16 @@
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\bin\Debug\Bmi_Calculator.exe.config
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\bin\Debug\Bmi_Calculator.exe
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\bin\Debug\Bmi_Calculator.pdb
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator.csproj.AssemblyReference.cache
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\App.g.cs
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator_MarkupCompile.cache
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator_MarkupCompile.lref
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\MainWindow.baml
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator.g.resources
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator.Properties.Resources.resources
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator.csproj.GenerateResource.cache
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator.exe
+C:\Users\mays_jacobj\source\repos\Bmi_Calculator\Bmi_Calculator\obj\Debug\Bmi_Calculator.pdb
